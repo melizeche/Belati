@@ -4,3 +4,4 @@ requests
 texttable
 python-geoip-geolite2
 python-geoip
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
